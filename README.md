@@ -1,5 +1,5 @@
 # Karamba3D NightlyBuilds
-This repository contains the nightly builds version of Karamba3D for Rhino5, Rhino6 and Rhino7.
+This repository contains the nightly builds version of Karamba3D for Rhino6 and Rhino7.
 
 ## Download
 
