@@ -1,5 +1,5 @@
 # Karamba3D NightlyBuilds
-This repository contains the nightly builds version of Karamba3D for Rhino6 and Rhino7. Rhino5 is no longer supported
+This repository contains the nightly builds version of Karamba3D for Rhino6 and Rhino7. Rhino5 is no longer supported.
 
 ## Download
 
@@ -17,3 +17,7 @@ Submit and bug reports or feature requests [here](https://github.com/karamba3d/K
 ## Roadmap
 
 See the current [development](https://github.com/karamba3d/K3D_NightlyBuilds/projects/1) of Karamba3D 2.0.0. 
+
+## Contact
+
+Contact Clemens Preisinger via email: [cp@karamba3d.com](mailto:cp@karamba3d.com). 
