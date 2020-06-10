@@ -1,5 +1,14 @@
 # Karamba3D NightlyBuilds
+The Karamba3D builds in this directory are work in progress (WIP).
 This repository contains the nightly builds version of Karamba3D for Rhino6 and Rhino7. Rhino5 is no longer supported.
+
+Please be aware of the following:
+- these builds may contain bugs because they are not as thoroughly tested as official versions of Karamba3D.
+- Grasshopper definitions created with these WIP builds may contain components which do not load correctly in later versions of Karamba3D.
+
+Best regards,
+your Karamba3D team
+
 
 ## Download
 
