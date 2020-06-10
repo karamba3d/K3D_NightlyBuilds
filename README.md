@@ -20,4 +20,4 @@ See the current [development](https://github.com/karamba3d/K3D_NightlyBuilds/pro
 
 ## Contact
 
-Contact Clemens Preisinger via email: [cp@karamba3d.com](mailto:cp@karamba3d.com). 
+Should you need to contact us via email (Clemens Presinger): [cp@karamba3d.com](mailto:cp@karamba3d.com). 
