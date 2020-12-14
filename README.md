@@ -13,11 +13,12 @@ your Karamba3D team
 ## Download
 
 The latest build is [here](https://github.com/karamba3d/Karamba3D_NightlyBuilds/releases). 
-Installation and information on setting up the license can be found [here](https://manual.karamba3d.com/1-introduction/a.2-installation). 
     
-## License 
+## Installation & License 
 
-Any existing licenses work with the nightly builds version. Simply run the installation and it will automatically update your Karamba3D installation and the licenses should still work. See the [license agreement](https://www.karamba3d.com/buy/license-agreement/). 
+Any existing licenses work with the nightly builds version. Simply run the installation and it will automatically update your Karamba3D installation and the licenses should still work. Installation and information on setting up the license can be found [here](https://manual.karamba3d.com/1-introduction/a.2-installation). 
+
+See the [license agreement](https://www.karamba3d.com/buy/license-agreement/). 
 
 ## Bugs or Requests
 
