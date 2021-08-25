@@ -12,9 +12,13 @@ Best regards,
 your Karamba3D team
 
 
-## Download
+## Download WIP Versions
 
 The latest build is [here](https://github.com/karamba3d/Karamba3D_NightlyBuilds/releases). 
+
+## Online WIP Manual
+
+The WIP manual can be found [here](https://karamba3d.gitbook.io/karamba3d-2-0-0/). 
     
 ## Installation & License 
 
