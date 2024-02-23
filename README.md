@@ -18,7 +18,7 @@ The latest build is [here](https://github.com/karamba3d/Karamba3D_NightlyBuilds/
 
 ## Online WIP Manual
 
-The WIP manual can be found [here]( https://manual-2.karamba3d.com/). 
+The WIP manual can be found [here](https://karamba3d.gitbook.io/english-ying-wen/new-in-karamba3d-3.0.0-wip). 
     
 ## Installation & License 
 
