@@ -32,7 +32,7 @@ Submit and bug reports or feature requests [here](https://github.com/karamba3d/K
 
 ## Roadmap
 
-See the current [development](https://github.com/karamba3d/K3D_NightlyBuilds/projects/1) of Karamba3D 3.0.0. 
+See the current [development](https://github.com/users/karamba3d/projects/1/views/3) of Karamba3D 3.0.0. 
 
 ## Contact
 
